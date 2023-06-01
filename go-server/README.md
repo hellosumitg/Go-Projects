@@ -1,2 +1,2 @@
 # go-server
-Simple static web server
+simple static web server
