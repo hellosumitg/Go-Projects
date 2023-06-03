@@ -2,5 +2,6 @@
 Beginner to Pro
 
 ### Day1: [go-server](https://github.com/hellosumitg/Go-Projects/tree/main/go-server)
-### Day2: [go-movies-crud](https://github.com/hellosumitg/Go-Projects/tree/main/go-movies-crud)
+### Day1: [go-movies-crud](https://github.com/hellosumitg/Go-Projects/tree/main/go-movies-crud)
+### Day2: [go-postgres-fiber-gorm](https://github.com/hellosumitg/Go-Projects/tree/main/go-postgres-fiber-gorm)
 
