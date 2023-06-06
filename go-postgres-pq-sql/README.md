@@ -1,1 +1,1 @@
-# go server build using "pq + sql" packages with postgres database
+# go server build using "pq & sql" packages with postgres database
