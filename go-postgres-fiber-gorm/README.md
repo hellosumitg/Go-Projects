@@ -1,1 +1,1 @@
-# go server build using "fibre + gorm" with postgres database
+# go server build using "fibre & gorm" packages with postgres database
