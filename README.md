@@ -7,3 +7,4 @@ Beginner to Pro
 ### Day3: [go-postgres-pq-sql](https://github.com/hellosumitg/Go-Projects/tree/main/go-postgres-pq-sql)
 ### Day4: [go-email-checker](https://github.com/hellosumitg/Go-Projects/tree/main/go-email-checker)
 ### Day5: [go-slack-file-bot](https://github.com/hellosumitg/Go-Projects/tree/main/go-slack-file-bot)
+### Day6: [crypto-terminal-indicator](https://github.com/hellosumitg/Go-Projects/tree/main/crypto-terminal-indicator)
